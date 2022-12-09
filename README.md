@@ -1,2 +1,2 @@
 # QLDANhom5
-Phần mềm uản lý cửa hàng bán sách
+Phần mềm quản lý cửa hàng bán sách
